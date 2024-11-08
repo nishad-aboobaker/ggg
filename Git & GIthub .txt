@@ -1,0 +1,32 @@
+=> Git 
+
+    Git is a version control system that helps track changes in files and manage projects with multiple contributors.
+
+
+    It is used for:
+        Tracking code changes
+        Tracking who made changes
+        Coding collaboration
+
+    What does Git do?
+        Manage projects with Repositories
+        Clone a project to work on a local copy
+        Control and track changes with Staging and Committing
+        Branch and Merge to allow for work on different parts and versions of a project
+        Pull the latest version of the project to a local copy
+        Push local updates to the main project
+
+
+
+        git remote repo:  a folder with special code and content which exist i hithub
+        local repositories : local git folder in user's system 
+
+
+=>Github
+
+    GitHub is a web-based platform that hosts Git repositories,
+    making it easy to share and collaborate on code.    
+    It provides additional features like pull requests, issue tracking,
+    and access control, which facilitate teamwork and project management.
+    GitHub also has a social component, enabling developers to connect,
+    review each other’s work, and contribute to open-source projects.
